@@ -5,6 +5,8 @@ com o intuito em auxiliar programadores interessados na área de visão computac
 ### Índice
 * [Python](#python)
   * [OpenCV](#opencv)
+* [C/C++](#C-Cpp)
+  * [OpenCV](#opencvcpp) 
 
 
 
