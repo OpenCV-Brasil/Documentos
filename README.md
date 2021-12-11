@@ -4,6 +4,7 @@ com o intuito em auxiliar programadores interessados na área de visão computac
 
 ### Índice
 * [Python](#python)
+  * [Básico](#basico) 
   * [OpenCV](#opencv)
 * [C/C++](#C-Cpp)
   * [OpenCV](#opencvcpp) 
@@ -11,6 +12,9 @@ com o intuito em auxiliar programadores interessados na área de visão computac
 
 
 ### Python
+
+#### Python para iniciantes
+* [Algoritmos em Python](https://algoritmosempython.com.br/)
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
 
